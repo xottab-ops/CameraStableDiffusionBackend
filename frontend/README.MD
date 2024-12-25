@@ -1,0 +1,1 @@
+# Camera Stable Diffusion Frontend Service
