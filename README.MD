@@ -1,0 +1,1 @@
+# Camera Stable Diffusion App with microservices
